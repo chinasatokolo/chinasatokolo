@@ -7,7 +7,7 @@ I'm a Ph.D. student in Computer Science at Cornell University with research inte
 
 In my free time, I love to travel (currently on pause), scroll down my [Twitter](twitter.com/chinasza) feed, [blog](www.collegesista.com), compose songs, learn about venture capital, and pursue entrepreneurial endeavors. You can find more about me on www.chinasaokolo.com.
 
-- 👩🏿‍💻\ I’m currently working on a research study to learn more about perceptions of AI in emerging countries
+- 👩🏿‍💻 I’m currently working on a research study to learn more about perceptions of AI in emerging countries
 - 🌱 I’m currently learning how VC funds work
 - 🤝 I’m looking to collaborate on video recognition techniques for fine-grained motions
 - 💬 Ask me about being in grad school, side-hustling, or diversity in tech
@@ -18,6 +18,4 @@ In my free time, I love to travel (currently on pause), scroll down my [Twitter]
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: ...
--->
-
 -->
