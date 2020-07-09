@@ -3,7 +3,7 @@
 <!--
 **chinasaokolo/chinasaokolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-I'm a PhD student in Computer Science at Cornell University with research interests in computer vision, global health, machine learning, and ICTD! Within these fields, I work on projects to improve mobile health in Sub-Saharan Africa and the rest of the Global South for diagnosing infectious and tropical diseases.
+I'm a PhD student in Computer Science at Cornell University with research interests in computer vision, global health, and ICTD! Within these fields, I work on projects to improve mobile health in Sub-Saharan Africa and the rest of the Global South to improve the diagnosis of infectious and tropical diseases.
 
 In my free time, I love to travel (currently on pause), scroll down my [Twitter](twitter.com/chinasza) feed, [blog](www.collegesista.com), compose songs, learn about venture capital, and pursue entrepreneurial endeavors.
 
