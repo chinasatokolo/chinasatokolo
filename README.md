@@ -1,7 +1,7 @@
 ### Hey everyone  👋🏾
 
 <!--
-**chinasaokolo/chinasaokolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**chinasaokolo/chinasaokolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 I'm a Ph.D. student in Computer Science at Cornell University with research interests in computer vision, global health, machine learning, and ICTD! Within these fields, I work on projects to improve mobile health in Sub-Saharan Africa and the rest of the Global South for diagnosing infectious and tropical diseases.
 
