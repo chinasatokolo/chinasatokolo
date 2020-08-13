@@ -9,7 +9,7 @@ In my free time, I love to travel (currently on pause), scroll down my [Twitter]
 
 - 👩🏿‍💻 I’m working on a research study to learn more about perceptions of AI in emerging countries
 - 🌱 I’m learning how term sheets are structured
-- 📚 I’m [reading](www.goodreads.com/collegesista) Bad Feminist by Roxane Gay and Purple Hibiscus by Chimamanda Ngozi Adichie
+- 📚 I’m [reading](https://www.goodreads.com/collegesista) Bad Feminist by Roxane Gay and Purple Hibiscus by Chimamanda Ngozi Adichie
 - 🤝 I’m looking to collaborate on video recognition techniques for fine-grained motions
 - 💬 Ask me about being in grad school, side-hustling, or bias in machine learning
 - 📫 How to reach me: go through my [website](http://www.chinasaokolo.com)!
