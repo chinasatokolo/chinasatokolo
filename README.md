@@ -3,13 +3,13 @@
 <!--
 **chinasaokolo/chinasaokolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-I'm a PhD student in Computer Science at Cornell University with research interests in computer vision, global health, and ICTD! Within these fields, I work on projects in Southeast Asia, Sub-Saharan Africa, and the rest of the Global South to improve the diagnosis of infectious and tropical diseases through mobile health.
+I'm a PhD student in Computer Science at Cornell University with research interests in computer vision, global health, human-AI interaction, and ICTD! Within these fields, I work on projects in Southeast Asia, Sub-Saharan Africa, and the rest of the Global South to improve the diagnosis of infectious and tropical diseases through mobile health.
 
 In my free time, I love to travel (currently on pause), scroll down my [Twitter](https://www.twitter.com/chinasza) feed, [blog](http://www.collegesista.com), compose songs, learn about venture capital, and pursue entrepreneurial endeavors.
 
 - 👩🏿‍💻 I’m working on a research study to learn more about perceptions of AI in low-resource contexts
 - 🌱 I’m learning how term sheets are structured
-- 📚 I’m [reading](https://www.goodreads.com/collegesista) The Age of Surveillance Capitalism by Shoshana Zuboff and The Terrible by Yrsa Daley-Ward
+- 📚 I’m [reading](https://www.goodreads.com/collegesista) The Age of Surveillance Capitalism by Shoshana Zuboff and Freshwater by Akwaeke Emezi
 - 🤝 I’m looking to collaborate on video recognition techniques for fine-grained motions
 - 💬 Ask me about being in grad school, side-hustling, or bias in machine learning
 - 📫 How to reach me: go through my [website](http://www.chinasaokolo.com)!
