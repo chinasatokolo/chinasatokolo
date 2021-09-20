@@ -8,14 +8,14 @@ I'm a PhD student in Computer Science at Cornell University with research intere
 In my free time, I love to travel (currently on pause), scroll down my [Twitter](https://www.twitter.com/chinasza) feed, [blog](http://www.collegesista.com), compose songs, learn about venture capital, and pursue entrepreneurial endeavors.
 
 - 👩🏿‍💻 I’m working on a research study to learn more about perceptions of AI in low-resource contexts
-- 🌱 I’m learning how term sheets are structured
-- 📚 I’m [reading](https://www.goodreads.com/collegesista) The Age of Surveillance Capitalism by Shoshana Zuboff and Freshwater by Akwaeke Emezi
-- 🤝 I’m looking to collaborate on video recognition techniques for fine-grained motions
+- 🌱 I’m learning about the VC ecosystem in Africa
+- 📚 I’m [reading](https://www.goodreads.com/collegesista) The Age of Surveillance Capitalism by Shoshana Zuboff and Ties That Tether by Jane Igharo
 - 💬 Ask me about being in grad school, side-hustling, or bias in machine learning
 - 📫 How to reach me: go through my [website](http://www.chinasaokolo.com)!
 - ⚡ Fun fact: I've been to over 20 countries and lived in 3!
 
 <!--
+- 🤝 I’m looking to collaborate on video recognition techniques for fine-grained motions
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: ...
