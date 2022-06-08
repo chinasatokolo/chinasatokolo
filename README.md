@@ -9,7 +9,7 @@ In my free time, I love to travel (currently on pause), scroll down my [Twitter]
 
 - 👩🏿‍💻 I’m working on a research study to learn more about perceptions of AI in low-resource contexts
 - 🌱 I’m learning about the VC ecosystem in Africa
-- 📚 I’m [reading](https://www.goodreads.com/collegesista) The Age of Surveillance Capitalism by Shoshana Zuboff and Ties That Tether by Jane Igharo
+- 📚 I’m [reading](https://www.goodreads.com/collegesista) Bitter by Awaeke Emezi and A Girl is a Body of Water by Jennifer Nansubuga Makumbi
 - 💬 Ask me about being in grad school, side-hustling, or bias in machine learning
 - 📫 How to reach me: go through my [website](http://www.chinasaokolo.com)!
 - ⚡ Fun fact: I've been to over 20 countries and lived in 3!
