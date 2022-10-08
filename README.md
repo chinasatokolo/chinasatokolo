@@ -5,7 +5,7 @@
 
 I'm a PhD Candidate in Computer Science at Cornell University with research interests in computer vision, global health, human-AI interaction, and ICTD! Within these fields, I work on projects in rural India to understand how frontline healthcare workers perceive and value AI/XAI. I also examine how explainability can be best leveraged in AI-enabled technologies deployed throughout the Global South, with a focus on healthcare.
 
-In my free time, I love to travel (currently on pause), scroll down my [Twitter](https://www.twitter.com/chinasza) feed, [blog](http://www.collegesista.com), compose songs, learn about venture capital, and pursue entrepreneurial endeavors.
+In my free time, I love to travel, scroll down my [Twitter](https://www.twitter.com/chinasza) feed, [blog](http://www.collegesista.com), compose songs, learn about venture capital, and pursue entrepreneurial endeavors.
 
 - 👩🏿‍💻 I’m working on a research study to examine how existing XAI methods serve novice technology users
 - 🌱 I’m learning about the VC ecosystem in Africa
