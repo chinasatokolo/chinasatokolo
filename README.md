@@ -7,12 +7,12 @@ I'm a PhD Candidate in Computer Science at Cornell University with research inte
 
 In my free time, I love to travel, scroll down my [Twitter](https://www.twitter.com/chinasza) feed, [blog](http://www.collegesista.com), compose songs, learn about venture capital, and pursue entrepreneurial endeavors.
 
-- 👩🏿‍💻 I’m working on a research study to examine how existing XAI methods serve novice technology users
+- 👩🏿‍💻 I’m working on a research study to examine how AI for Social Good Practitioners incorporate XAI
 - 🌱 I’m learning about the VC ecosystem in Africa
-- 📚 I’m [reading](https://www.goodreads.com/collegesista) Honey & Spice by Bolu Babalola and Caste by Isabel Wilkerson
-- 💬 Ask me about being in grad school, side-hustling, or bias in machine learning
+- 📚 I’m [reading](https://www.goodreads.com/collegesista) Floating in a Most Peculiar Way by Louis Chude-Sokei and Caste by Isabel Wilkerson
+- 💬 Ask me about being in grad school, side-hustling, or human-centered AI
 - 📫 How to reach me: go through my [website](http://www.chinasaokolo.com)!
-- ⚡ Fun fact: I've been to 2 dozen countries and lived in 3!
+- ⚡ Fun fact: I've been to over 2 dozen countries and lived in 3!
 
 <!--
 - 🤝 I’m looking to collaborate on video recognition techniques for fine-grained motions
