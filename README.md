@@ -9,8 +9,8 @@ In my free time, I love to travel, scroll down my [Twitter](https://www.twitter.
 
 - 👩🏿‍💻 I’m working on a research study to examine how AI for Social Good Practitioners incorporate XAI
 - 🌱 I’m learning about the VC ecosystem in Africa
-- 📚 I’m [reading](https://www.goodreads.com/collegesista) Floating in a Most Peculiar Way by Louis Chude-Sokei and Caste by Isabel Wilkerson
-- 💬 Ask me about being in grad school, side-hustling, or human-centered AI
+- 📚 I’m reading whatever's on my [Goodreads](https://www.goodreads.com/collegesista)
+- 💬 Ask me about being in grad school, navigating the PhD job market, or human-centered AI
 - 📫 How to reach me: go through my [website](http://www.chinasaokolo.com)!
 - ⚡ Fun fact: I've been to over 2 dozen countries and lived in 3!
 
