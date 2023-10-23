@@ -3,15 +3,15 @@
 <!--
 **chinasaokolo/chinasaokolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-I'm a PhD Candidate in Computer Science at Cornell University with research interests in computer vision, global health, human-AI interaction, and ICTD! Within these fields, I work on projects in rural India to understand how frontline healthcare workers perceive and value AI/XAI. I also examine how explainability can be best leveraged in AI-enabled technologies deployed throughout the Global South, with a focus on healthcare.
+I'm a Fellow at the Brookings Institution and a recent PhD graduate in Computer Science at Cornell University with research interests in AI governance, global development, and human-centered AI! Within these fields, I work on projects related to improving AI governance capacity in the Global South, upskilling novice AI users, examining human-centered approaches to AI explainability, and analyzing the future of data work. My dissertation research examined how frontline healthcare workers in rural India perceive AI and analyzed how AI explainability can meet the needs of novice technology users in the Global South. Check out my [thesis](https://www.proquest.com/openview/541071ba65fbaf90882a95227d19b8ff/)!
 
-In my free time, I love to travel, scroll down my [Twitter](https://www.twitter.com/chinasza) feed, [blog](http://www.collegesista.com), compose songs, learn about venture capital, and pursue entrepreneurial endeavors.
+In my free time, I love to travel, scroll down my [Twitter](https://www.twitter.com/chinasza) feed, [blog](http://www.collegesista.com), and compose songs.
 
-- 👩🏿‍💻 I’m working on a research study to examine how AI for Social Good Practitioners incorporate XAI
-- 🌱 I’m learning about the VC ecosystem in Africa
+- 👩🏿‍💻 I’m working on a research study examining the cost-benefit analysis of AI4SG projects
+- 🌱 I’m learning about AI governance in the Global South
 - 📚 I’m reading whatever's on my [Goodreads](https://www.goodreads.com/collegesista)
-- 💬 Ask me about being in grad school, navigating the PhD job market, or human-centered AI
-- 📫 How to reach me: go through my [website](http://www.chinasaokolo.com)!
+- 💬 Ask me about pursuing a career in policy, navigating the PhD job market, or human-centered AI
+- 📫 How to reach me: go through my [website](http://www.chinasatokolo.com)!
 - ⚡ Fun fact: I've been to over 2 dozen countries and lived in 3!
 
 <!--
