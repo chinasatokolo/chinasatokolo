@@ -9,7 +9,7 @@ In my free time, I love to travel, scroll down my [Twitter](https://www.twitter.
 
 - 👩🏿‍💻 I’m working on a research study examining the cost-benefit analysis of AI4SG projects
 - 🌱 I’m learning about AI governance in the Global South
-- 📚 I’m reading whatever's on my [Goodreads](https://www.goodreads.com/collegesista)
+- 📚 I’m reading whatever's on my [Goodreads](https://www.goodreads.com/collegesista) and my favorites are on my [Bookshelf](https://bookshelf.website/chinasa)
 - 💬 Ask me about pursuing a career in policy, navigating the PhD job market, or human-centered AI
 - 📫 How to reach me: go through my [website](http://www.chinasatokolo.com)!
 - ⚡ Fun fact: I've been to over 2 dozen countries and lived in 3!
