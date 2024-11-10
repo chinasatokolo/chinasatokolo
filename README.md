@@ -10,7 +10,7 @@ My dissertation research examined how frontline healthcare workers in rural Indi
 In my free time, I love to travel, scroll down my [Twitter](https://www.twitter.com/ChinasaTOkolo) feed, [blog](http://www.collegesista.com), and compose songs.
 
 - 👩🏿‍💻 I’m working on a research study examining the potential of XAI in policy proposals
-- 🌱 I’m learning about sociodigital marginalization
+- 🌱 I’m learning about development economics
 - 📚 I’m reading whatever's on my [Goodreads](https://www.goodreads.com/collegesista) and my favorites are on my [Bookshelf](https://bookshelf.website/chinasa)
 - 💬 Ask me about pursuing a career in policy, navigating the PhD job market, or human-centered AI
 - 📫 How to reach me: go through my [website](http://www.chinasatokolo.com)!
