@@ -3,7 +3,7 @@
 <!--
 **chinasatokolo/chinasatokolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-I'm a Fellow at the Brookings Institution and a recent PhD graduate in Computer Science at Cornell University with research interests in AI governance, global development, and human-centered AI! Within these fields, I work on projects related to improving AI governance capacity in the Global South, examining human-centered AI, and analyzing the socioeconomic impact of data work. I've also recently been recognized as [one of the world's most influential people in AI](https://time.com/7012894/chinasa-t-okolo/) by TIME and have been honored on the inaugural [Forbes 30 Under 30 AI](https://www.forbes.com/30-under-30/2025/ai) list.
+I'm a Fellow at the Brookings Institution and a recent PhD graduate in Computer Science at Cornell University with research interests in AI governance, global development, and human-centered AI! Within these fields, I work on projects related to improving AI governance capacity in the Global Majority, examining human-centered AI, and analyzing the socioeconomic impact of data work. I've also recently been recognized as [one of the world's most influential people in AI](https://time.com/7012894/chinasa-t-okolo/) by TIME and have been honored on the inaugural [Forbes 30 Under 30 AI](https://www.forbes.com/30-under-30/2025/ai) list.
 
 My dissertation research examined how frontline healthcare workers in rural India perceive AI and analyzed how AI explainability can meet the needs of novice technology users in the Global South. Check out my [thesis](https://www.proquest.com/openview/541071ba65fbaf90882a95227d19b8ff/)!
 
