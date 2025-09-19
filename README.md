@@ -14,7 +14,7 @@ In my free time, I love to travel, scroll down my [Twitter](https://www.twitter.
 - 📚 I’m reading whatever's on my [Goodreads](https://www.goodreads.com/collegesista) and my favorites are on my [Bookshelf](https://bookshelf.website/chinasa)
 - 💬 Ask me about pursuing a career in policy, navigating the PhD job market, or human-centered AI
 - 📫 How to reach me: go through my [website](http://www.chinasatokolo.com)!
-- ⚡ Fun fact: I've been to over 40 countries and lived in 3!
+- ⚡ Fun fact: I've traveled to over 40 countries and lived in 3!
 
 <!--
 - 🤝 I’m looking to collaborate on video recognition techniques for fine-grained motions
